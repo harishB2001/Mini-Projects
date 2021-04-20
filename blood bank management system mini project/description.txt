@@ -1,0 +1,5 @@
+The project "bbms" abbreviated as "Blood Bank Management System" is a prototype of a centralized blood bank management System.
+FrontEnd and clientside  is entirely built in Flutter (web build), 
+ServerSide is developed with PHP, 
+MySQl database is used for storing the data,
+hosted as localhost with XAMPP server.
